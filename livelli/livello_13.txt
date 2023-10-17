@@ -1,0 +1,2 @@
+CONGRATULAZIONI!!!
+Hai completato il gioco, se vuoi puoi trovare I nomi di chi ha contribuito a questo progetto nella cartella del gioco, aprendo il file "ringraziamenti.txt".§ilgiococontinua§Hey! PErché cerchi di andare avanti? Il gioco è finito dopotutto...§cifrato=false

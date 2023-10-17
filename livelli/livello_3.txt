@@ -1,0 +1,4 @@
+Quale delle seguenti è falsa?
+
+A) Le password devono contenere caratteri speciali.
+B) Le password non devono contenere informazioni della propria vita privata.§a§Scrivi solo la lettera.§cifrato=false
